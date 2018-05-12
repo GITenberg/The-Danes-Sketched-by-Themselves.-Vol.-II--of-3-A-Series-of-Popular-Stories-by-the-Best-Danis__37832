@@ -1,0 +1,32 @@
+_repo: The-Danes-Sketched-by-Themselves.-Vol.-II--of-3-A-Series-of-Popular-Stories-by-the-Best-Danis__37832
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Bushby, Mrs. (Anna S.)
+    aliases:
+    - Bushby, Anna S.
+    - Bushby, Anne S.
+    gutenberg_agent_id: '32044'
+    url: http://www.gutenberg.org/2009/agents/32044
+covers:
+- cover_type: generated
+  image_path: cover.png
+description: ''
+gutenberg_issued: '2011-10-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Danish -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'Fiction'
+tableOfContents: Too old, by Carit Etlar -- Aunt Francisca, by Carl Bernhard -- The
+  shipwrecked mariner's treasure, by Carit Etlar -- Damon and Pythias, by Carl Bernhard
+  -- The fatal chain, from the Swedish of Uncle Adam.
+title: "The Danes, Sketched by Themselves. Vol. 2 (of 3)\r\nA Series of Popular Stories\
+  \ by the Best Danish Authors"
+url: http://www.gutenberg.org/ebooks/37832
